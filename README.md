@@ -26,7 +26,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
    
    ```bash
-     https://github.com/yeshvinash/Medanzo.git
+     git clone https://github.com/yeshvinash/Medanzo.git
      cd Medanzo
    ```
 2. Install project dependencies using npm:
